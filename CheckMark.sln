@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMark", "CheckMark\CheckMark.csproj", "{8007A1AC-F454-4E58-AC06-0C00488AA108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMarkWeb", "CheckMarkWeb\CheckMarkWeb.csproj", "{587BC600-1A43-4147-BEDE-E7FD82DEF9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8007A1AC-F454-4E58-AC06-0C00488AA108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8007A1AC-F454-4E58-AC06-0C00488AA108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8007A1AC-F454-4E58-AC06-0C00488AA108}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8007A1AC-F454-4E58-AC06-0C00488AA108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8007A1AC-F454-4E58-AC06-0C00488AA108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8007A1AC-F454-4E58-AC06-0C00488AA108}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{587BC600-1A43-4147-BEDE-E7FD82DEF9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587BC600-1A43-4147-BEDE-E7FD82DEF9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587BC600-1A43-4147-BEDE-E7FD82DEF9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587BC600-1A43-4147-BEDE-E7FD82DEF9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F9B265-463C-4ACB-8082-87AEE9EFA023}
+	EndGlobalSection
+EndGlobal
